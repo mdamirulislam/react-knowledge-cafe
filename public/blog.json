@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/xJCtWCg/1.jpg",
+        "title": "The Secret Garden",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/6Dv74yr/boy1.png",
+        "posted_date": "2023-09-10",
+        "reading_time": 30,
+        "hashtags": ["fantasy", "gardening", "magic"]
+    },
+    {
+        "id":2,
+        "cover": "https://i.ibb.co/FXdGK17/2.png",
+        "title": "Lost in Time",
+        "author": "Bob Smith",
+        "author_img": "https://i.ibb.co/LtdqzhC/boy2.jpg",
+        "posted_date": "2023-09-09",
+        "reading_time": 45,
+        "hashtags": ["time travel", "adventure", "mystery"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/nLtzQ88/3.png",
+        "title": "Echoes of Silence",
+        "author": "Claire Davis",
+        "author_img": "https://i.ibb.co/TW12Yv4/girl1.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": 60,
+        "hashtags": ["drama", "romance", "relationships"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/xJBg32Q/4.jpg",
+        "title": "Whispers in the Wind",
+        "author": "David Lee",
+        "author_img": "https://i.ibb.co/P6LNPjQ/girl2.jpg",
+        "posted_date": "2023-09-07",
+        "reading_time": 40,
+        "hashtags": ["mystery", "suspense", "thriller"]
+    }
+]
+
+
